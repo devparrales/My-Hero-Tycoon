@@ -33,7 +33,7 @@ Disseny
 S’ha escollit un estil simple per facilitar el desenvolupament i les proves.
 
 Captura de pantalla
-
+<img width="1063" height="763" alt="{3240D308-B700-48C8-B67D-E2C47465D996}" src="https://github.com/user-attachments/assets/723c29a8-786c-484e-b14d-b90fe34dd4b2" />
 Estat actual
 Fet
 Mapa creat
