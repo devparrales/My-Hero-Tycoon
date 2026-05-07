@@ -1,50 +1,123 @@
-Fase 3 — Entorn i prototip
-Entorn de desenvolupament
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <title>Fase 3 — Entorn i prototip</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background: #f5f5f5;
+      color: #222;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    section {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin-top: 10px;
+    }
+    .status {
+      display: flex;
+      gap: 40px;
+    }
+    .done, .pending {
+      flex: 1;
+    }
+  </style>
+</head>
 
-S’ha utilitzat Roblox Studio amb el llenguatge Lua per crear el projecte.
+<body>
 
-Configuració bàsica
-Roblox Studio
-Scripts en Lua
-Workspace i ServerScriptService
-Sistema de proves Play Test
-Evidències del treball
+  <h1>Fase 3 — Entorn i prototip</h1>
 
-Actualment s’ha creat:
+  <section>
+    <h2>Entorn de desenvolupament</h2>
+    <p>S’ha utilitzat Roblox Studio amb el llenguatge Lua per crear el projecte.</p>
+  </section>
 
-El mapa base
-4 zones per als jugadors amb els seus respectius spawns en la seva base
-Plataformes principals
-Botons inicials
-Murs del mapa
-Reclamador de diners
-Transportador per als dropers
+  <section>
+    <h2>Configuració bàsica</h2>
+    <ul>
+      <li>Roblox Studio</li>
+      <li>Scripts en Lua</li>
+      <li>Workspace i ServerScriptService</li>
+      <li>Sistema de proves Play Test</li>
+    </ul>
+  </section>
 
-El prototip ja és funcional i permet moure’s pel mapa.
+  <section>
+    <h2>Evidències del treball</h2>
+    <p>Actualment s’ha creat:</p>
+    <ul>
+      <li>El mapa base</li>
+      <li>4 zones per als jugadors amb spawns a cada base</li>
+      <li>Plataformes principals</li>
+      <li>Botons inicials</li>
+      <li>Murs del mapa</li>
+      <li>Reclamador de diners</li>
+      <li>Transportador per als droppers</li>
+    </ul>
+    <p>El prototip ja és funcional i permet moure’s pel mapa.</p>
+  </section>
 
-Decisions inicials
-Sistema Tycoon
+  <section>
+    <h2>Decisions inicials</h2>
 
-El joc funcionarà amb:
+    <h3>Sistema Tycoon</h3>
+    <p>El joc funcionarà amb:</p>
+    <ul>
+      <li>Botons de compra</li>
+      <li>Generadors de diners</li>
+      <li>Millores progressives</li>
+    </ul>
 
-Botons de compra
-Generadors de diners
-Millores progressives
-Disseny
+    <h3>Disseny</h3>
+    <p>S’ha escollit un estil simple per facilitar el desenvolupament i les proves.</p>
+  </section>
 
-S’ha escollit un estil simple per facilitar el desenvolupament i les proves.
+  <section>
+    <h2>Captura de pantalla</h2>
+    <img src="https://github.com/user-attachments/assets/723c29a8-786c-484e-b14d-b90fe34dd4b2" alt="Captura del projecte">
+  </section>
 
-Captura de pantalla
-<img width="1063" height="763" alt="{3240D308-B700-48C8-B67D-E2C47465D996}" src="https://github.com/user-attachments/assets/723c29a8-786c-484e-b14d-b90fe34dd4b2" />
-Estat actual
-Fet
-Mapa creat
-Zones separades
-Base del Tycoon funcional
-Pendent
-Sistema de diners
-Generadors
-Millores visuals
-Conclusió
+  <section>
+    <h2>Estat actual</h2>
+    <div class="status">
+      <div class="done">
+        <h3>Fet</h3>
+        <ul>
+          <li>Mapa creat</li>
+          <li>Zones separades</li>
+          <li>Base del Tycoon funcional</li>
+        </ul>
+      </div>
 
-El projecte ja té una base funcional preparada per continuar desenvolupant les mecàniques principals del Tycoon.
+      <div class="pending">
+        <h3>Pendent</h3>
+        <ul>
+          <li>Sistema de diners</li>
+          <li>Generadors</li>
+          <li>Millores visuals</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Conclusió</h2>
+    <p>El projecte ja té una base funcional i està preparat per continuar amb les mecàniques principals del joc.</p>
+  </section>
+
+</bodycontinuar desenvolupant les mecàniques principals del Tycoon.
