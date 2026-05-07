@@ -13,10 +13,12 @@ Evidències del treball
 Actualment s’ha creat:
 
 El mapa base
-4 zones per als jugadors
+4 zones per als jugadors amb els seus respectius spawns en la seva base
 Plataformes principals
 Botons inicials
 Murs del mapa
+Reclamador de diners
+Transportador per als dropers
 
 El prototip ja és funcional i permet moure’s pel mapa.
 
